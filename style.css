@@ -46,8 +46,12 @@ h2{
     padding-bottom: 40px;
     background-color: whitesmoke;
 }
+.child-1{
+    width: 50%;
+}
 .child-2{
     padding-left: 20px;
+    width: 50%;
 }
 .container-1{
     background-color: black;
@@ -165,7 +169,7 @@ span{
         color: black;
     }
     .container-1 img{
-        width: 100%;
+        width: 90%;
     }
     .container-1 p{
         font-size: 25px;
